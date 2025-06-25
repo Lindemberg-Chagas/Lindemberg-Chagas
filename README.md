@@ -30,7 +30,7 @@ Sempre em busca de aprimorar meus conhecimentos e contribuir com projetos inovad
 
 ## 🌱 O que estou aprendendo atualmente
 
-Estou me aprofundando em **OpenTelemetry** para aprimorar a observabilidade de APIs e microserviços, além de continuar expandindo meus conhecimentos em **Kubernetes** e automações avançadas com **ArgoCD**.
+Estou me aprofundando em **AWS** e **AgentesIA** para aprimorar a observabilidade de APIs e microserviços, além de continuar expandindo meus conhecimentos em **automações avançadas** usando o protocolo **MCP**.
 
 ## 📫 Vamos nos conectar?
 [![Berg-Devops](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindemberg-devops/)
