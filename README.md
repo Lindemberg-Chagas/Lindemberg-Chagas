@@ -1,6 +1,6 @@
 # Olá, pode me chamar de Berg 👋👨🏽‍💻
 
-Sou um **DevOps Engineer** apaixonado por automação, otimização de processos e soluções em cloud. Atualmente, trabalho como DevOps Jr na ***FITBANK 450 LTDA***, onde tenho colaborado com a implementação da cultura Devops. Aqui diariamente uso 
+Sou um **DevOps Engineer** apaixonado por automação, otimização de processos e soluções em cloud. Atuo na ***FITBANK 450 LTDA***, onde tenho colaborado com a implementação da cultura Devops. Aqui diariamente uso 
 ![S.O](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![S.O](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
