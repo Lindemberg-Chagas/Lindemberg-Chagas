@@ -1,18 +1,26 @@
 # Olá, pode me chamar de Berg 👋👨🏽‍💻
 
-Sou um **DevOps Engineer** apaixonado por automação, otimização de processos e soluções em cloud. Atuo na ***FITBANK 450 LTDA***, onde tenho colaborado com a implementação da cultura Devops. Aqui diariamente uso 
-![S.O](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![S.O](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+Sou um **DevOps Engineer** apaixonado por automação, otimização de processos e soluções em Cloud. Atuo na ***DREAM SQUAD***, onde tenho colaborado com a implementação das melhores soluções AWS Cloud . Aqui diariamente uso 
 
+![S.O](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![S.O](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit)
 
 
 
 Tenho experiência prática com as principais ferramentas e linguagens utilizadas no ecossistema DevOps, 
-como **AWS**, **GCP**, **Azure DevOps**,
+como **AWS**, **GCP**, **Azure DevOps**, **GitHub Actions**,
 
 ![S.O](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit)
 ![S.O](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![S.O](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
 
 E containerização das linguagens como:
 
